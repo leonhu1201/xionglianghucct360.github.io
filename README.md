@@ -1,2 +1,2 @@
 # xionglianghucct360.github.io
-cct360lab10
+this is created to post cct360lab10
